@@ -55,7 +55,6 @@ When I'm not writing code, you can find me exploring the audio spectrum through 
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hailstone-Labs&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hailstone-Labs&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-omega-two-54.vercel.app/api?username=Hailstone-Labs&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-omega-two-54.vercel.app/api/top-langs/?username=Hailstone-Labs&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
